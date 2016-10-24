@@ -19,3 +19,6 @@
 [submodule "Module/projName"]
 	path = Module/projName
 	url = https://github.com/zhangjunjiecq/LKDBHelper-SQLite-ORM.git
+[submodule "SegmentFault/Support/UrlManager"]
+	path = SegmentFault/Support/UrlManager
+	url = https://github.com/gaosboy/urlmanager.git
