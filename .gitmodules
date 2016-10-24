@@ -16,3 +16,6 @@
 [submodule "SegmentFault/Support/GTM"]
 	path = SegmentFault/Support/GTM
 	url = git://github.com/innerfence/google-toolbox-for-mac.git
+[submodule "Module/projName"]
+	path = Module/projName
+	url = https://github.com/zhangjunjiecq/LKDBHelper-SQLite-ORM.git
