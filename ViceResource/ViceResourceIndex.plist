@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cntStructureBundleId</key>
+	<string>com.renrenzhong.eagleLottery</string>
+	<key>com.baifenbai.shuzicai</key>
+	<string>bfbszcResource</string>
+	<key>com.renrenzhong.eagleLottery</key>
+	<string>eagleResource</string>
+	<key>com.rrz.kuaisan</key>
+	<string>kuaisanResource</string>
+	<key>com.rrz.syxw</key>
+	<string>syxwResource</string>
+</dict>
+</plist>
